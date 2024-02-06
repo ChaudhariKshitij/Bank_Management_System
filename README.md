@@ -8,7 +8,7 @@ Welcome to the Bank Management System (BMS) repository! This project provides a 
 3. **Customization**: Modify the database schema or extend functionalities as per your requirements.
 
 ## Files Included 📁
-- `bms_gtl.sql`: SQL script containing the database schema and sample data.
+- `bank_gtl.sql`: SQL script containing the database schema and sample data.
 - `README.md`: Documentation file providing an overview of the project.
 
 ## Collaboration 💼
